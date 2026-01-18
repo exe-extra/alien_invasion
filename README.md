@@ -8,7 +8,7 @@ Also in the images folder, the files are taken from the specified sources of the
 
 ## How to launch
 1. Install dependencies (pygame)
-2. Run the main game file (specify the name of your main file)
+2. Run the main game file (alien_invasion)
 
 Example:
 ``bash
